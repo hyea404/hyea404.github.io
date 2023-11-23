@@ -1,0 +1,616 @@
+.all-in {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.all-in .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1918px;
+  height: 11437px;
+  position: relative;
+}
+
+.all-in .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 3341px;
+  top: 165px;
+  left: 0;
+}
+
+.all-in .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  top: 2261px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.all-in .element {
+  position: absolute;
+  width: 543px;
+  height: 543px;
+  top: 2566px;
+  left: 223px;
+  object-fit: cover;
+}
+
+.all-in .pattern {
+  position: absolute;
+  width: 1871px;
+  height: 1639px;
+  top: 791px;
+  left: 47px;
+}
+
+.all-in .text-wrapper {
+  position: absolute;
+  height: 98px;
+  top: 2634px;
+  left: 882px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-2 {
+  position: absolute;
+  height: 37px;
+  top: 2754px;
+  left: 882px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .p {
+  position: absolute;
+  width: 820px;
+  height: 174px;
+  top: 2813px;
+  left: 882px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 400;
+  color: #535353;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.all-in .text-wrapper-3 {
+  position: absolute;
+  height: 98px;
+  top: 1368px;
+  left: 194px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-4 {
+  position: absolute;
+  height: 37px;
+  top: 1503px;
+  left: 196px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .i-m-a-illustrator {
+  position: absolute;
+  width: 629px;
+  height: 87px;
+  top: 1581px;
+  left: 194px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 400;
+  color: #535353;
+  font-size: 25px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.all-in .rectangle-2 {
+  position: absolute;
+  width: 154px;
+  height: 67px;
+  top: 1708px;
+  left: 193px;
+  background-color: #478526;
+  border-radius: 42.5px;
+}
+
+.all-in .text-wrapper-5 {
+  position: absolute;
+  width: 98px;
+  height: 16px;
+  top: 1733px;
+  left: 221px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-6 {
+  position: absolute;
+  width: 76px;
+  height: 30px;
+  top: 1981px;
+  left: 91px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .arrow {
+  top: 1986px;
+  left: 187px;
+  position: absolute;
+  width: 1px;
+  height: 25px;
+}
+
+.all-in .text-wrapper-7 {
+  position: absolute;
+  width: 76px;
+  height: 30px;
+  top: 3239px;
+  left: 91px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .img {
+  top: 3244px;
+  left: 187px;
+  position: absolute;
+  width: 1px;
+  height: 25px;
+}
+
+.all-in .text-wrapper-8 {
+  position: absolute;
+  height: 98px;
+  top: 368px;
+  left: 773px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .pattern-2 {
+  position: absolute;
+  width: 1920px;
+  height: 970px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.all-in .nahida {
+  position: absolute;
+  width: 721px;
+  height: 721px;
+  top: 1261px;
+  left: 1028px;
+  object-fit: cover;
+}
+
+.all-in .overlap-group {
+  position: absolute;
+  width: 1844px;
+  height: 834px;
+  top: 3915px;
+  left: 45px;
+}
+
+.all-in .text-wrapper-9 {
+  position: absolute;
+  height: 37px;
+  top: 127px;
+  left: 797px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #505050;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-10 {
+  position: absolute;
+  height: 98px;
+  top: 29px;
+  left: 832px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .element-2 {
+  position: absolute;
+  width: 1012px;
+  height: 485px;
+  top: 220px;
+  left: 438px;
+}
+
+.all-in .pattern-3 {
+  position: absolute;
+  width: 1844px;
+  height: 834px;
+  top: 0;
+  left: 0;
+}
+
+.all-in .text-wrapper-11 {
+  position: absolute;
+  width: 76px;
+  height: 30px;
+  top: 4763px;
+  left: 123px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .arrow-2 {
+  top: 4768px;
+  left: 219px;
+  position: absolute;
+  width: 1px;
+  height: 25px;
+}
+
+.all-in .text-wrapper-12 {
+  position: absolute;
+  height: 37px;
+  top: 5379px;
+  left: 923px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #505050;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-13 {
+  position: absolute;
+  height: 98px;
+  top: 5281px;
+  left: 848px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .work {
+  position: absolute;
+  width: 1844px;
+  height: 4876px;
+  top: 5435px;
+  left: 45px;
+  object-fit: cover;
+}
+
+.all-in .overlap-group-2 {
+  position: absolute;
+  width: 1920px;
+  height: 1037px;
+  top: 10400px;
+  left: -2px;
+}
+
+.all-in .rectangle-3 {
+  position: absolute;
+  width: 1920px;
+  height: 878px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.all-in .pattern-4 {
+  position: absolute;
+  width: 1238px;
+  height: 984px;
+  top: 26px;
+  left: 682px;
+}
+
+.all-in .text-wrapper-14 {
+  position: absolute;
+  width: 116px;
+  height: 19px;
+  top: 326px;
+  left: 1149px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-15 {
+  position: absolute;
+  width: 304px;
+  height: 19px;
+  top: 429px;
+  left: 1149px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-16 {
+  position: absolute;
+  width: 380px;
+  height: 19px;
+  top: 223px;
+  left: 1149px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-17 {
+  position: absolute;
+  height: 98px;
+  top: 205px;
+  left: 391px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .e {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 303px;
+  left: 1039px;
+  object-fit: cover;
+}
+
+.all-in .behance-social-media {
+  position: absolute;
+  width: 80px;
+  height: 62px;
+  top: 408px;
+  left: 1032px;
+  object-fit: cover;
+}
+
+.all-in .rectangle-4 {
+  position: absolute;
+  width: 1920px;
+  height: 157px;
+  top: 880px;
+  left: 0;
+  background-color: #598241;
+}
+
+.all-in .text-wrapper-18 {
+  position: absolute;
+  width: 128px;
+  height: 30px;
+  top: 950px;
+  left: 1486px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-19 {
+  position: absolute;
+  width: 159px;
+  height: 30px;
+  top: 950px;
+  left: 1658px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-20 {
+  position: absolute;
+  top: 937px;
+  left: 104px;
+  color: #ffffff;
+  width: 458px;
+  height: 61px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.all-in .ellipse {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 952px;
+  left: 380px;
+  background-color: #ffffff;
+  border-radius: 14px;
+}
+
+.all-in .fiverr {
+  position: absolute;
+  width: 106px;
+  height: 80px;
+  top: 184px;
+  left: 1019px;
+  object-fit: cover;
+}
+
+.all-in .rectangle-5 {
+  position: fixed;
+  width: 1922px;
+  height: 121px;
+  top: 0;
+  left: -2px;
+  background-color: #ffffff;
+}
+
+.all-in .text-wrapper-21 {
+  position: fixed;
+  width: 128px;
+  height: 30px;
+  top: 44px;
+  left: 1467px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-22 {
+  position: fixed;
+  width: 77px;
+  height: 30px;
+  top: 44px;
+  left: 1320px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-23 {
+  position: fixed;
+  width: 159px;
+  height: 30px;
+  top: 44px;
+  left: 1639px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #478526;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.all-in .text-wrapper-24 {
+  position: fixed;
+  top: 31px;
+  left: 85px;
+  color: #000000;
+  width: 458px;
+  height: 61px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.all-in .ellipse-2 {
+  position: fixed;
+  width: 28px;
+  height: 28px;
+  top: 46px;
+  left: 361px;
+  background-color: #478526;
+  border-radius: 14px;
+}
+
+.all-in .text-wrapper-25 {
+  position: fixed;
+  width: 77px;
+  height: 30px;
+  top: 11350px;
+  left: 1324px;
+  font-family: "Arimo", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
